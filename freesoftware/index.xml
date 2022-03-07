@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Free Software for ChemE on Edgar Martín Hernández</title>
+    <link>https://emartinher-PSEM3.github.io/freesoftware/</link>
+    <description>Recent content in Free Software for ChemE on Edgar Martín Hernández</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://emartinher-PSEM3.github.io/freesoftware/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Free Software for ChemE</title>
+      <link>https://emartinher-PSEM3.github.io/freesoftware/freesoftware/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://emartinher-PSEM3.github.io/freesoftware/freesoftware/</guid>
+      <description>Free Software for ChemE Nowadays the use of software in Chemical Engineering is essential for many applications, from scientific and technical calculations to the design of presentations and preparation of documents. Currently, there are both free and proprietary alternatives to address the different tasks and challenges of the Chemical Engineering field. However Free Software is developed under political and ethical principles which promotes the expand of the open access knowledge, making scientific research more visible and accessible.</description>
+    </item>
+    
+    <item>
+      <title>Julia</title>
+      <link>https://emartinher-PSEM3.github.io/freesoftware/julia/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://emartinher-PSEM3.github.io/freesoftware/julia/</guid>
+      <description>Julia Under construction</description>
+    </item>
+    
+    <item>
+      <title>LaTeX</title>
+      <link>https://emartinher-PSEM3.github.io/freesoftware/latex/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://emartinher-PSEM3.github.io/freesoftware/latex/</guid>
+      <description>LaTeX  LaTeX is a platform for prepare documents specially oriented for scientific documents, with specific support for mathematical expressions.
+To create a document in LaTeX a predefined type of text must be selected to determine the appropriate global format. The default styles are book, report, article and letter. The text in LaTeX is introduced as plain text, and different functions can be used to define the text format, include images, tables, etc.</description>
+    </item>
+    
+    <item>
+      <title>Python</title>
+      <link>https://emartinher-PSEM3.github.io/freesoftware/python/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://emartinher-PSEM3.github.io/freesoftware/python/</guid>
+      <description>Python  Python Python is an open source programming language created by Guido van Rossum in 1991. It is an interpreted high-level language, which enhances the readability of the code. This allows the user to create programs in an easier way and producing shorter codes than other programming languages. Python has a large user’s community whose provides support and creates packages, libraries and modules which extends the capabilities and applications of Python to areas such as scientific and engineering simulations, machine learning, computational chemistry, data visualization or its implementation in embedded systems, among others.</description>
+    </item>
+    
+  </channel>
+</rss>
